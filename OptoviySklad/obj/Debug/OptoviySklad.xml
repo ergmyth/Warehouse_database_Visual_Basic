@@ -1,0 +1,536 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OptoviySklad
+</name>
+</assembly>
+<members>
+<member name="T:OptoviySklad.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:OptoviySklad.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:OptoviySklad.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ДолжностиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ЗаказчикиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ПоставщикиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.СкладDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.СотрудникиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Типы_товаровDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ТоварыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ЗаказыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Отдел_кадровDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Список_заказчиковDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Список_поставщиковDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Список_товаровDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet._ФильтрЗаказовПоПоставщикам1_2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet._ФильтрЗаказовПоПоставщикам3_5DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ФильтрЗаказовПоСпособуДоставки1и2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ФильтрЗаказовПоСпособуДоставки3DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ФильтрОтделаКадровПоДолжности1и2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet._ФильтрОтделаКадровПоДолжности3_5DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ФильтрСпискаТоваровПоТипуТовара1и2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet._ФильтрСпискаТоваровПоТипуТовара3_5DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Отображение_сотрудников_по_возрастуDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Отображение_сотрудников_по_ФИОDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Среднее_трех_величинDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ДолжностиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ЗаказчикиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ПоставщикиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.СкладRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.СотрудникиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Типы_товаровRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ТоварыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ЗаказыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Отдел_кадровRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Список_заказчиковRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Список_поставщиковRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Список_товаровRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet._ФильтрЗаказовПоПоставщикам1_2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet._ФильтрЗаказовПоПоставщикам3_5Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ФильтрЗаказовПоСпособуДоставки1и2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ФильтрЗаказовПоСпособуДоставки3Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ФильтрОтделаКадровПоДолжности1и2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet._ФильтрОтделаКадровПоДолжности3_5Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ФильтрСпискаТоваровПоТипуТовара1и2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet._ФильтрСпискаТоваровПоТипуТовара3_5Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Отображение_сотрудников_по_возрастуRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Отображение_сотрудников_по_ФИОRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Среднее_трех_величинRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ДолжностиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ЗаказчикиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ПоставщикиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.СкладRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.СотрудникиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Типы_товаровRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ТоварыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ЗаказыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Отдел_кадровRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Список_заказчиковRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Список_поставщиковRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Список_товаровRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet._ФильтрЗаказовПоПоставщикам1_2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet._ФильтрЗаказовПоПоставщикам3_5RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ФильтрЗаказовПоСпособуДоставки1и2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ФильтрЗаказовПоСпособуДоставки3RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ФильтрОтделаКадровПоДолжности1и2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet._ФильтрОтделаКадровПоДолжности3_5RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.ФильтрСпискаТоваровПоТипуТовара1и2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet._ФильтрСпискаТоваровПоТипуТовара3_5RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Отображение_сотрудников_по_возрастуRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Отображение_сотрудников_по_ФИОRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSet.Среднее_трех_величинRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.ДолжностиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.ЗаказчикиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.ПоставщикиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.СкладTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.СотрудникиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.Типы_товаровTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.ТоварыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.ЗаказыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.Отдел_кадровTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.Список_заказчиковTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.Список_поставщиковTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.Список_товаровTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.ФильтрЗаказовПоПоставщикам1_2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.ФильтрЗаказовПоПоставщикам3_5TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.ФильтрЗаказовПоСпособуДоставки1и2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.ФильтрЗаказовПоСпособуДоставки3TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.ФильтрОтделаКадровПоДолжности1и2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.ФильтрОтделаКадровПоДолжности3_5TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.ФильтрСпискаТоваровПоТипуТовара1и2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.ФильтрСпискаТоваровПоТипуТовара3_5TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.Отображение_сотрудников_по_возрастуTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.Отображение_сотрудников_по_ФИОTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.Среднее_трех_величинTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:OptoviySklad.FatkDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(OptoviySklad.FatkDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:OptoviySklad.FatkDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(OptoviySklad.FatkDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:OptoviySklad.FatkDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(OptoviySklad.FatkDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:OptoviySklad.FatkDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:OptoviySklad.FatkDBDataSetTableAdapters.TableAdapterManager.UpdateAll(OptoviySklad.FatkDBDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:OptoviySklad.FatkDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
